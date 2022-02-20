@@ -47,6 +47,8 @@ person (str) - customer id
 time (int) - time in hours since the start of the test. The data begins at time t=0
 value - (dict of strings) - either an offer id or transaction amount depending on the record
 
-## conclusion
+## Conclusion
 
-models here was adaboost by 65% for discount offer for bogo training I think company should focus to give more interesting offers to males since their income is higher and majority customers are between 50 to 60 year old, Discount and BOGO increase the customer buy rating
+Models here was adaboost by 65% for discount offer for bogo training I think company should focus to give more interesting offers to males since their income is higher and majority customers are between 50 to 60 year old, Discount and BOGO increase the customer buy rating
+
+## Medium: 
