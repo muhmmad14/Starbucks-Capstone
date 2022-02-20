@@ -51,4 +51,4 @@ value - (dict of strings) - either an offer id or transaction amount dep
 
 Models here was adaboost by 65% for discount offer for bogo training I think company should focus to give more interesting offers to males since their income is higher and majority customers are between 50 to 60 year old, Discount and BOGO increase the customer buy rating
 
-## Medium: 
+## Medium: https://medium.com/@muhmmad.almutlaq/starbucks-capstone-challenge-64ea0f42afa6
